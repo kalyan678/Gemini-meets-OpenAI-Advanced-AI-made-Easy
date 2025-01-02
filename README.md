@@ -12,7 +12,7 @@ Unified Access to AI Models: The integration allows developers to access Google'
 
 Enhanced Development Workflow: By combining Gemini's advanced capabilities with OpenAI's interface, the integration streamlines development workflows, making it easier to build sophisticated AI applications.
 
-Practical Implementation: The article provides a step-by-step guide on setting up the development environment, including installing the OpenAI library and obtaining a Gemini API key from Google AI Studio.
+Practical Implementation: The code and article walk you through a step-by-step guide on setting up the development environment, including installing the OpenAI library and obtaining a Gemini API key from Google AI Studio.
 
 ## Repository Contents:
 
