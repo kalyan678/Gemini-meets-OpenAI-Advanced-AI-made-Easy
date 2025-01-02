@@ -22,5 +22,5 @@ Setup Instructions: Detailed instructions on configuring the development environ
 
 Additional Resources: Links to related articles and documentation for further reading.
 
-For a more in-depth understanding, refer to the full article on Medium here [https://medium.com/@kalyan.prsd/gemini-meets-openai-advanced-ai-made-easy-a6f0aa2789c1]
+For a more in-depth understanding, refer to the full article on Medium here - https://medium.com/@kalyan.prsd/gemini-meets-openai-advanced-ai-made-easy-a6f0aa2789c1
 
