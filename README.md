@@ -2,9 +2,6 @@
 
 Google has unveiled a groundbreaking collaboration, making its advanced Gemini models accessible through the OpenAI Library. This strategic integration empowers developers to seamlessly enhance their applications by leveraging Gemini’s capabilities within the familiar OpenAI ecosystem. This move signifies a pivotal advancement in AI accessibility and interoperability.
 
-## Project Overview:
-
-This repository contains the code and resources for the article "Gemini Meets OpenAI: Advanced AI Made Easy," authored by Me. The article discusses the integration of Google's Gemini AI models with OpenAI's library, aiming to simplify the development of advanced AI applications.
 
 ## Key Highlights:
 
